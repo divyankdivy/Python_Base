@@ -1,4 +1,4 @@
-# Day 4 - Randomisation and Python Lists
+# Day 8 - Randomisation and Python Lists
 ## Concepts Practiced
 1. Random Module
 2. Understanding the Offset and Appending Items to Lists
