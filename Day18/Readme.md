@@ -1,4 +1,4 @@
-# Day 14 
+# Day 18
 ## Higher Lower Game Project
 ### Concept Practiced
 1. Using Dictionary Data
