@@ -7,3 +7,13 @@ if l == 3:
     print('yes')
 else:
     print('no')
+
+
+# Solution 2
+
+n = int(input('enter number: '))
+
+if n > 99 and n<1000:
+    print('Its 3 digit')
+else:
+    print('No')
